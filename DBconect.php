@@ -1,8 +1,8 @@
 <?php
-$db_host="bzahw6mgdcofk8jxymty-postgresql.services.clever-cloud.com"; //localhost server 
-$db_user="uis8nrtriax7jkp7tmp4";	//database username
-$db_password="2h08wkUqs9aRpdEcQlBT";	//database password   
-$db_name="bzahw6mgdcofk8jxymty";	//database name
+$db_host="bvikpljfb9y75eikpib0-mysql.services.clever-cloud.com"; //localhost server 
+$db_user="uni7djqzkrulfrdf";	//database username
+$db_password="WhbnW02in4oJYKBEzG0g";	//database password   
+$db_name="bvikpljfb9y75eikpib0";	//database name
 
 try
 {

@@ -3,10 +3,10 @@
 
 return [
   'db' => [
-    'host' => 'bzahw6mgdcofk8jxymty-postgresql.services.clever-cloud.com',
-    'user' => 'uis8nrtriax7jkp7tmp4',
-    'pass' => '2h08wkUqs9aRpdEcQlBT',
-    'name' => 'uis8nrtriax7jkp7tmp4',
+    'host' => 'bvikpljfb9y75eikpib0-mysql.services.clever-cloud.com',
+    'user' => 'uni7djqzkrulfrdf',
+    'pass' => 'WhbnW02in4oJYKBEzG0g',
+    'name' => 'bvikpljfb9y75eikpib0',
     'options' => [
       PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
     ]
